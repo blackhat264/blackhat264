@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?BLACKHAT<br>👺☠️</h1>
+<h1 align="center">Hello, let me introduce myself, I'm Victor and I like programming and I like games and I would like to be a hacker.<br>👺☠️</h1>
 
 ###
 
